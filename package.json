@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "^0.10.0",
+    "lodash.isstring": "^2.4.1",
+    "lodash.isnull": "^2.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "rootDir": "src"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.1.15"
+  }
+}
